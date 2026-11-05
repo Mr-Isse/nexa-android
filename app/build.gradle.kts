@@ -7,6 +7,7 @@ plugins {
 android {
     namespace = "com.nexa.app"
     compileSdk = 36
+    compileSdkMinor = 1
 
     defaultConfig {
         applicationId = "com.nexa.app"
