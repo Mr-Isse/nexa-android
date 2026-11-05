@@ -5,7 +5,7 @@ description: Use when building or integrating the Presage SmartSpectra SDK for A
 
 # SmartSpectra SDK — Agent Reference
 
-This file is the official Presage SmartSpectra agent skill copied from the public repository:
+This is a condensed project reference based on the official Presage SmartSpectra agent skill in the public repository:
 https://github.com/Presage-Security/SmartSpectra/blob/main/.agents/skills/using-smartspectra/SKILL.md
 
 **Maintenance:** Treat the upstream skill and live Presage documentation as authoritative. Before SDK implementation, compare this copy with the upstream version and consult the current Android documentation. Do not assume this copy remains current.
