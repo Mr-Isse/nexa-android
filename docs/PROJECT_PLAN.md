@@ -12,8 +12,8 @@ Build a reliable native Android experience for the Presage SmartSpectra SDK Chal
 - [ ] Confirm current challenge requirements and submission format.
 - [ ] Review the official SmartSpectra Android quick start and agent skill.
 - [ ] Choose a cloud-based Android build workflow that does not require installing Android Studio locally.
-- [x] Confirm the physical Android test device OS: Android 13 (API 33).
-- [ ] Obtain SmartSpectra credentials through the official developer portal/MCP flow; never commit credentials.
+- [x] Confirm the physical Android test device: Samsung Galaxy A51, Android 13 (API 33).
+- [x] Obtain the SmartSpectra API key through the developer portal; keep it private and never commit it.
 
 **Exit criteria:** documented toolchain, reproducible project setup plan, and a safe SDK credential approach.
 
